@@ -9,7 +9,9 @@ I have hands-on experience in **software development**, **machine learning**, an
 
 ### 🚀 Projects and Experience
 - **AI Visual Inspection System @ Flex** – Designed an automated defect detection solution using **Anomalib Patchcore** and **Google Vision API**, saving over **$27K quarterly** and reducing inspection time.  
-- **Medical Imaging Research @ UT Austin** – Built and trained **TensorFlow** models to improve diagnostic accuracy and analyze large-scale medical image datasets.  
+- **Medical Imaging Research @ UT Austin** – Built and trained **TensorFlow** models to improve diagnostic accuracy and analyze large-scale medical image datasets.
+- **Customer Database** – Developed a C++ program to manage customer records and inventory for simulated retail transactions. Implemented dynamic memory management, class-based design, and transaction validation to track purchases, returns, and top customers.
+- **Blip Language Interpreter** – A lightweight interpreter for Blip, a custom educational language built in C++. It parses and executes prefix-style expressions, showcasing foundational compiler and interpreter design concepts.
 - **Space Invaders Embedded Game** – Developed a real-time handheld version of *Space Invaders* using **C**, **ADC/DAC**, and the **TI MSPM0+ microcontroller**.  
 - **Traffic Light FSM** – Implemented a **finite state machine** in **C** to control a dual-street intersection with real-time logic and safety integration.  
 - **Cloud Vision OCR** – Created a real-time **optical character recognition tool** using **Python** and **OpenCV** to extract and process text from images efficiently.  
