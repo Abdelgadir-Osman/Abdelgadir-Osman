@@ -1,4 +1,4 @@
-# 💫 About Me
+# About Me
 
 Hi, I'm **Abdelgadir Osman**, an **Electrical and Computer Engineering student** at **The University of Texas at Austin**, specializing in **Software Engineering and Design** and graduating in **May 2027**.
 
@@ -6,7 +6,7 @@ I'm interested in building reliable software at the intersection of **backend sy
 
 ---
 
-## 🚀 Experience
+## Experience
 
 - **Software Development Engineering Intern @ Expedia Group**  
   Built production-focused security automation in **TypeScript** and **Node.js**, including dependency scanning, remediation workflows, CI validation, rescanning, and runtime testing. The work helped remediate **50+ production vulnerabilities**.
@@ -19,7 +19,7 @@ I'm interested in building reliable software at the intersection of **backend sy
 
 ---
 
-## 🛠️ Featured Projects
+## Featured Projects
 
 ### Helm
 An AI-native product management platform built with **Next.js, FastAPI, PostgreSQL, and agentic AI**.
@@ -46,7 +46,7 @@ A real-time embedded game built in **C** on the **TI MSPM0+** microcontroller.
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages**  
 Python · C · C++ · C# · Java · JavaScript · TypeScript · Verilog · MATLAB
@@ -62,11 +62,11 @@ Git · GitHub Actions · Docker · CI/CD · Playwright · Linux · Jetson Nano
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelgadir-osman)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=About.me&logoColor=white)](https://abdelgadirosman.com)
 [![Resume](https://img.shields.io/badge/Resume-%23FFB703.svg?logo=adobeacrobatreader&logoColor=white)](./Abdelgadir-Osman-Resume.pdf)
 
-📫 **Email:** o.abdelgadir32@gmail.com  
-📍 **Austin, TX**
+**Email:** o.abdelgadir32@gmail.com  
+**Austin, TX**
