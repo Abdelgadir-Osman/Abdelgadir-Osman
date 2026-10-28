@@ -66,7 +66,7 @@ Git · GitHub Actions · Docker · CI/CD · Playwright · Linux · Jetson Nano
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelgadir-osman)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=About.me&logoColor=white)](https://abdelgadirosman.com)
-[![Resume](https://img.shields.io/badge/Resume-%23FFB703.svg?logo=adobeacrobatreader&logoColor=white)](https://abdelgadirosman.com/Abdelgadir-Osman-Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-%23FFB703.svg?logo=adobeacrobatreader&logoColor=white)](./Abdelgadir-Osman-Resume.pdf)
 
 📫 **Email:** o.abdelgadir32@gmail.com  
 📍 **Austin, TX**
